@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         webView = findViewById(R.id.webview);
         webView.setWebViewClient(new WebViewClient());
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("https://chemistry-enu.netlify.app");
+        webView.loadUrl("https://biochem-enu.netlify.app");
     }
 
     @Override
