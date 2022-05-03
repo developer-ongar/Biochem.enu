@@ -1,3 +1,3 @@
 # Biochem.enu
 
-[Web App](https://chemistry-enu.netlify.app/)
+[Web App](https://biochem-enu.netlify.app/)
